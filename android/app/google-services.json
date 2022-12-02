@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "142765529465",
+    "project_id": "favocchi",
+    "storage_bucket": "favocchi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142765529465:android:dd879973e86ee439eef7a8",
+        "android_client_info": {
+          "package_name": "oyu.team.favocchi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142765529465-ms05fehnd8uvr6hfa1jmdh1srr1p6748.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbmm6KfZnu3qGvUvlNKUf4q-0EYGU6-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142765529465-ms05fehnd8uvr6hfa1jmdh1srr1p6748.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "142765529465-nkd0f8fiotnhsh7qp8v0m5dqefbjsqp4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "oyu.team.chatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

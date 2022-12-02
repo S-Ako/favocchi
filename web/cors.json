@@ -1,0 +1,7 @@
+[
+    {
+      "origin": ["favocchi.web.app","favocchi.firebaseapp.com"],
+      "method": ["GET"],
+      "maxAgeSeconds": 3600
+    }
+  ]

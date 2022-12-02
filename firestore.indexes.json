@@ -1,0 +1,41 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "story",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "create_user",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "update_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "story",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "search_query.alone",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "search_query.indoor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "search_query.minor",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "number",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
